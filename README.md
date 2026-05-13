@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <h1>I'm Aleis</h1>
+  <p>My username is, as you can tell, an aleis.</p>
+</div>
 
-<!--
-**analeis/analeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- This profile is dedicated to my general & web dev pursuits, Linux and Community OSS ventures, with cybersecurity interests sprinkled in.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+    - Setting up my private profile
+    - Helping develop discord bots with disgo
+    - Contributing to OSS projects
+- 🌱 I’m currently learning
+    - SSH, Infra & Remote dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Don't contact me unless necessary.
+- ⚡ I aim to get pretty good at Go and C in 2026
