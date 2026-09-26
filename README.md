@@ -1,16 +1,16 @@
 <div align="center">
   <h1>I'm Aleis</h1>
-  <p>My username is, as you can tell, an aleis.</p>
+  <p>My username is, as you can tell, an alias.</p>
 </div>
 
-- This profile is dedicated to my general & web dev pursuits, Linux and Community OSS ventures, with cybersecurity interests sprinkled in.
+- ⚡ I created this profile with the aim to be competent at Go and C.
+
+- This profile is dedicated to my niche pursuits, Linux and Community OSS ventures, experiments and cybersecurity interests sprinkled in.
 
 - 🔭 I’m currently working on:
-    - Setting up my private profile
-    - Helping develop discord bots with disgo
+    - Developing discord bots with disgo
     - Contributing to OSS projects
-- 🌱 I’m currently learning
-    - SSH, Infra & Remote dev
+    - Experimenting & Researching across cybersecurity, LLM dev workflows, systems engineering. 
+    - Learning SSH, Infra & Remote dev
 
 - 📫 Don't contact me unless necessary.
-- ⚡ I aim to get pretty good at Go and C in 2026
